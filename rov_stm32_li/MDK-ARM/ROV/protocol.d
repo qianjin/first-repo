@@ -1,0 +1,9 @@
+rov\protocol.o: ..\Hardware\protocol.c
+rov\protocol.o: ..\Hardware\protocol.h
+rov\protocol.o: E:\Keil\mdk_541\core\ARM\ARMCC\Bin\..\include\stdint.h
+rov\protocol.o: E:\Keil\mdk_541\core\ARM\ARMCC\Bin\..\include\stdio.h
+rov\protocol.o: E:\Keil\mdk_541\core\ARM\ARMCC\Bin\..\include\stdbool.h
+rov\protocol.o: E:\Keil\mdk_541\core\ARM\ARMCC\Bin\..\include\string.h
+rov\protocol.o: E:\Keil\mdk_541\core\ARM\ARMCC\Bin\..\include\stdarg.h
+rov\protocol.o: E:\Keil\mdk_541\core\ARM\ARMCC\Bin\..\include\stdlib.h
+rov\protocol.o: ..\Hardware\common_definition_rrd.h

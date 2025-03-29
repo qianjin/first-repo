@@ -1,0 +1,11 @@
+rov\singly_list.o: ..\Hardware\singly_list.c
+rov\singly_list.o: ..\Hardware\singly_list.h
+rov\singly_list.o: E:\Keil\mdk_541\core\ARM\ARMCC\Bin\..\include\stdio.h
+rov\singly_list.o: E:\Keil\mdk_541\core\ARM\ARMCC\Bin\..\include\stdlib.h
+rov\singly_list.o: E:\Keil\mdk_541\core\ARM\ARMCC\Bin\..\include\string.h
+rov\singly_list.o: ..\Hardware\tools.h
+rov\singly_list.o: E:\Keil\mdk_541\core\ARM\ARMCC\Bin\..\include\stdint.h
+rov\singly_list.o: E:\Keil\mdk_541\core\ARM\ARMCC\Bin\..\include\stdbool.h
+rov\singly_list.o: E:\Keil\mdk_541\core\ARM\ARMCC\Bin\..\include\stdarg.h
+rov\singly_list.o: E:\Keil\mdk_541\core\ARM\ARMCC\Bin\..\include\stddef.h
+rov\singly_list.o: ..\Hardware\list_interface.h

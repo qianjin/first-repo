@@ -1,0 +1,10 @@
+rov\dma_circular_queue.o: ..\Hardware\dma_circular_queue.c
+rov\dma_circular_queue.o: ..\Hardware\dma_circular_queue.h
+rov\dma_circular_queue.o: E:\Keil\mdk_541\core\ARM\ARMCC\Bin\..\include\stdio.h
+rov\dma_circular_queue.o: E:\Keil\mdk_541\core\ARM\ARMCC\Bin\..\include\stdlib.h
+rov\dma_circular_queue.o: E:\Keil\mdk_541\core\ARM\ARMCC\Bin\..\include\stdint.h
+rov\dma_circular_queue.o: E:\Keil\mdk_541\core\ARM\ARMCC\Bin\..\include\string.h
+rov\dma_circular_queue.o: E:\Keil\mdk_541\core\ARM\ARMCC\Bin\..\include\stdbool.h
+rov\dma_circular_queue.o: ..\Hardware\tools.h
+rov\dma_circular_queue.o: E:\Keil\mdk_541\core\ARM\ARMCC\Bin\..\include\stdarg.h
+rov\dma_circular_queue.o: E:\Keil\mdk_541\core\ARM\ARMCC\Bin\..\include\stddef.h

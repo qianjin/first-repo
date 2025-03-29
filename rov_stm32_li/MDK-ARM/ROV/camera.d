@@ -1,0 +1,10 @@
+rov\camera.o: ..\Hardware\camera.c
+rov\camera.o: ..\Hardware\camera.h
+rov\camera.o: E:\Keil\mdk_541\pack\Keil\STM32F1xx_DFP\2.2.0\Device\Include\stm32f10x.h
+rov\camera.o: .\RTE\_ROV\RTE_Components.h
+rov\camera.o: ../Drivers/CMSIS/Include/core_cm3.h
+rov\camera.o: E:\Keil\mdk_541\core\ARM\ARMCC\Bin\..\include\stdint.h
+rov\camera.o: ../Drivers/CMSIS/Include/cmsis_version.h
+rov\camera.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+rov\camera.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+rov\camera.o: E:\Keil\mdk_541\pack\Keil\STM32F1xx_DFP\2.2.0\Device\Include\system_stm32f10x.h

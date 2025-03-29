@@ -1,0 +1,9 @@
+rov\tools.o: ..\Hardware\tools.c
+rov\tools.o: ..\Hardware\tools.h
+rov\tools.o: E:\Keil\mdk_541\core\ARM\ARMCC\Bin\..\include\stdint.h
+rov\tools.o: E:\Keil\mdk_541\core\ARM\ARMCC\Bin\..\include\stdio.h
+rov\tools.o: E:\Keil\mdk_541\core\ARM\ARMCC\Bin\..\include\stdbool.h
+rov\tools.o: E:\Keil\mdk_541\core\ARM\ARMCC\Bin\..\include\string.h
+rov\tools.o: E:\Keil\mdk_541\core\ARM\ARMCC\Bin\..\include\stdarg.h
+rov\tools.o: E:\Keil\mdk_541\core\ARM\ARMCC\Bin\..\include\stdlib.h
+rov\tools.o: E:\Keil\mdk_541\core\ARM\ARMCC\Bin\..\include\stddef.h
